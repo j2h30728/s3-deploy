@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <h1>배포 테스트</h1>
+      <h1>스크립트 추가</h1>
     </>
   );
 }
