@@ -1,5 +1,6 @@
 {
-  "roots": ["<rootDir>/src/"],
+  "roots": ["<rootDir>/src"],
+  "testMatch": ["**/*.test.ts?(x)"],
   "testEnvironment": "jsdom",
   "moduleNameMapper": {
     "\\.(css|less|svg)$": "identity-obj-proxy"
