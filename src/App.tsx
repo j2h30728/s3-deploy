@@ -2,9 +2,9 @@ import "./App.css";
 
 function App() {
   return (
-    <>
-      <h1>스크립트 추가</h1>
-    </>
+    <div className="App">
+      <h1>Hello, World</h1>
+    </div>
   );
 }
 
